@@ -24,3 +24,11 @@ I'm always open to connecting with fellow developers and enthusiasts. You can fi
 Feel free to reach out to me with any questions, suggestions, or opportunities. Let's connect, share ideas, and create amazing software together!
 
 Thank you for visiting my GitHub repository. Happy coding! ✨
+### Most Used Language
+
+![Top Language](https://img.shields.io/github/languages/top/Adityazero4/Adityazero4)
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityazero4)
+
