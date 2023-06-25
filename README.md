@@ -10,65 +10,17 @@ Welcome to my GitHub repository! Here, you'll find a collection of my projects a
 - **C++ & Python**: I'm proficient in both C++ and Python, allowing me to tackle algorithmic challenges and develop efficient solutions.
 - **Version Control**: I'm familiar with Git and utilize it to manage my projects effectively.
 
-
-React.js:
-```markdown
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=flat-square)
-```
-
-JavaScript:
-```markdown
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-```
-
-C++:
-```markdown
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-```
-
-Python:
-```markdown
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-```
-
-DSA (Data Structures and Algorithms):
-```markdown
 ![DSA](https://img.shields.io/badge/-DSA-FF6C02?logo=datacamp&logoColor=white&style=flat-square)
-```
-
-HTML:
-```markdown
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
-```
-
-CSS:
-```markdown
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
-```
-
-GraphQL:
-```markdown
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)
-```
-
-Bootstrap:
-```markdown
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
-```
-
-Material UI:
-```markdown
 ![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?logo=material-ui&logoColor=white&style=flat-square)
-```
-
-Tailwind CSS:
-```markdown
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
-```
-
-Feel free to add these badges to your README file or customize them further according to your preferences.
-
-
 
 ## 🤝 Collaboration and Contributions
 
