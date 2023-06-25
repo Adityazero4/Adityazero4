@@ -1,4 +1,4 @@
-                                                                 # Hi there! I'm Aditya Jain
+# Hi there! I'm Aditya Jain
 
 Welcome to my GitHub repository! Here, you'll find a collection of my projects and contributions as a frontend developer and aspiring software developer. I'm passionate about creating intuitive user interfaces, building robust web applications, and solving complex problems with code.
 
