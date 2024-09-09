@@ -1,15 +1,16 @@
-# Hi there! I'm Aditya Jain
+# Hi there! I'm Aditya Jain 👋
 
-Welcome to my GitHub repository! Here, you'll find a collection of my projects and contributions as a frontend developer and aspiring software developer. I'm passionate about creating intuitive user interfaces, building robust web applications, and solving complex problems with code.
+Welcome to my GitHub repository! Here, you'll find a collection of my projects and contributions as a **frontend developer** and aspiring **software developer**. I'm passionate about creating intuitive user interfaces, building robust web applications, and solving complex problems with code.
 
 ## 🧰 Technologies and Skills
 
 - **JavaScript**: I'm well-versed in JavaScript, leveraging its power to create interactive and dynamic web experiences.
-- **React.js**: I have hands-on experience in developing scalable and responsive web applications using the React.js library.
+- **React.js**: I have hands-on experience developing scalable and responsive web applications using React.js.
 - **HTML & CSS**: With a keen eye for design, I ensure pixel-perfect implementations while adhering to modern design principles.
-- **C++ & Python**: I'm proficient in both C++ and Python, allowing me to tackle algorithmic challenges and develop efficient solutions.
-- **Version Control**: I'm familiar with Git and utilize it to manage my projects effectively.
+- **C++ & Python**: I'm proficient in both C++ and Python, enabling me to tackle algorithmic challenges and develop efficient solutions.
+- **Version Control**: Familiar with Git, I utilize it to manage my projects effectively.
 
+### 🛠 Tools & Frameworks:
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
@@ -24,31 +25,29 @@ Welcome to my GitHub repository! Here, you'll find a collection of my projects a
 
 ## 🤝 Collaboration and Contributions
 
-I believe in the power of collaboration and actively seek opportunities to contribute to open-source projects. If you're working on an exciting project and think my skills align with your needs, I'd love to discuss possible collaboration. Feel free to reach out to me through adityajain042001@gmail.com.
+I believe in the power of collaboration and actively seek opportunities to contribute to **open-source projects**. If you're working on an exciting project and think my skills align with your needs, I'd love to discuss possible collaboration. 
+
+Feel free to reach out to me at **[adityajain042001@gmail.com](mailto:adityajain042001@gmail.com)**.
 
 ## 📫 Let's Connect
 
-I'm always open to connecting with fellow developers and enthusiasts. You can find me on various platforms:
+I'm always open to connecting with fellow developers and enthusiasts. You can find me on:
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Adityazero4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Adityazero4&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityazero4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Adityazero4&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- **GitHub**: [Adityazero4](https://github.com/Adityazero4)
+- **LinkedIn**: [Aditya Jain](https://www.linkedin.com/in/aditya-jain-277b35202/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Adityazero4&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityazero4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adityazero4&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityazero4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- GitHub: https://github.com/Adityazero4
-- LinkedIn: https://www.linkedin.com/in/aditya-jain-277b35202/
+### 🔝 Top Contributed Repo:
+![Top Contributions](https://github-contributor-stats.vercel.app/api?username=Adityazero4&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-Feel free to reach out to me with any questions, suggestions, or opportunities. Let's connect, share ideas, and create amazing software together!
+---
 
-Thank you for visiting my GitHub repository. Happy coding! ✨
+![Visitor Count](https://visitcount.itsvg.in/api?id=Adityazero4&icon=0&color=0)
 
-
-
+Thank you for visiting my GitHub repository. **Happy coding!** ✨
