@@ -6,12 +6,16 @@ Welcome to my GitHub repository! Here, you'll find a collection of my projects a
 
 - **JavaScript**: I'm well-versed in JavaScript, leveraging its power to create interactive and dynamic web experiences.
 - **React.js**: I have hands-on experience developing scalable and responsive web applications using React.js.
+- **Next.js**: Proficient in building optimized, server-rendered applications using Next.js.
+- **TypeScript**: Comfortable with TypeScript, ensuring type safety and improving the maintainability of codebases.
 - **HTML & CSS**: With a keen eye for design, I ensure pixel-perfect implementations while adhering to modern design principles.
 - **C++ & Python**: I'm proficient in both C++ and Python, enabling me to tackle algorithmic challenges and develop efficient solutions.
 - **Version Control**: Familiar with Git, I utilize it to manage my projects effectively.
 
 ### 🛠 Tools & Frameworks:
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
